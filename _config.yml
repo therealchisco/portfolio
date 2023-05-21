@@ -5,7 +5,7 @@ description: I am a Software Developer and an intrepid explorer armed with a key
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-phone: (506) 8325-5555
+phone: (+506) 6328-5021
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
