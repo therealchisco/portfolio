@@ -1,0 +1,35 @@
+# site settings
+title: Portfolio
+subtitle: by Chisco
+email: contact@chisco.org
+description: A quick overview of some of the projects I've worked on.
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: meet.chisco.org # the base hostname & protocol for your site
+author:
+city: San Jose
+country: Costa Rica
+phone: (716) 8325-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/therealchisco
+  LinkedIn: https://www.linkedin.com/in/chiskov
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
