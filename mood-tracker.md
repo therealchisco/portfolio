@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Mood Tracker
+description: A modern Web Application that allows people to keep track of their mental health
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

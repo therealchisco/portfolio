@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Restaurant Menu System
+description: A native app to allow in restaurant orders and management
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
