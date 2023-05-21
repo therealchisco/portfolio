@@ -1,5 +1,6 @@
 ---
 title: Welcome to my Portfolio
+description: In the vast realm of software development, where ones and zeros dance together in a cosmic tango, I find my joy in crafting elegant solutions to real problems that deliver value. My name is Francisco but everyone calls me Chisco, and within the convoluted labyrinth of code and algorithms, I am an intrepid explorer armed with a keyboard and an insatiable curiosity. I am a Software Developer quipped with a vast repertoire of technology stacks that best suit the needs of each unique project and client. I hope this curated slection of projects will provide an overview of the wondrous tales of my coding odyssey, where bytes and pixels collide, and where the sparks of innovation set ablaze the digital landscapes.
 layout: landing
 image: assets/images/pic07.jpg
 nav-menu: true
