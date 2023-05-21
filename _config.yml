@@ -3,8 +3,8 @@ title: Portfolio
 subtitle: by Chisco
 email: contact@chisco.org
 description: A quick overview of some of the projects I've worked on.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: meet.chisco.org # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 author:
 city: San Jose
 country: Costa Rica
