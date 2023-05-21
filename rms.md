@@ -2,7 +2,7 @@
 layout: post
 title: Restaurant Menu System
 description: A native app to allow in restaurant orders and management
-image: assets/images/pic11.jpg
+image: assets/images/pic06.jpg
 nav-menu: true
 ---
 

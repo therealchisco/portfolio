@@ -2,7 +2,7 @@
 layout: post
 title: Mood Tracker
 description: A modern Web Application that allows people to keep track of their mental health
-image: assets/images/pic11.jpg
+image: assets/images/pic10.jpg
 nav-menu: true
 ---
 

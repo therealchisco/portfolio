@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: ETL Pipeline
+description: An ETL Pipeline to move data from point A to point B
+image: assets/images/pic08.jpg
 nav-menu: true
 ---
 
