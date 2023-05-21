@@ -1,7 +1,7 @@
 # site settings
 title: Chisco's Portfolio
 email: contact@chisco.org
-description: but you can call me Chisco. I am a Software Developer and an intrepid explorer armed with a keyboard and an insatiable curiosity in the vast realm of IT, where ones and zeros dance together in a cosmic tango, I find my joy in crafting elegant solutions to real problems that deliver value. Within the convoluted labyrinth of code and algorithms, I am  equipped with a vast repertoire of technology stacks that best suit the needs of each unique project and client. I hope this curated slection of projects will provide an overview of the wondrous tales of my coding odyssey, where bytes and pixels collide, and where the sparks of innovation set ablaze the digital landscapes.
+description: I am a Software Developer and an intrepid explorer armed with a keyboard and an insatiable curiosity in the vast realm of IT, where ones and zeros dance together in a cosmic tango, I find my joy in crafting elegant solutions to real problems that deliver value. Within the convoluted labyrinth of code and algorithms, I am  equipped with a vast repertoire of technology stacks that best suit the needs of each unique project and client. I hope this curated slection of projects will provide an overview of the wondrous tales of my coding odyssey, where bytes and pixels collide, and where the sparks of innovation set ablaze the digital landscapes.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
