@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Restaurant Menu System
-description: A native app to allow in restaurant orders and management
+description: A native app to allow in restaurant orders and management. built using .Net, Azure, C#. MS SQL Server
 image: assets/images/rms.png
 nav-menu: true
 ---
