@@ -38,20 +38,22 @@ The MoodTracker App was developed in response to a doctor's vision of providing 
     	<p>MoodTracker offers a simple and intuitive interface that allows patients to conveniently log their emotions and overall well-being on a daily basis. Users can choose from a range of emoticons to capture their unique experiences accurately.</p>
     </div>
     <div class="6u$ 12u$(small)">
-    	<img src="assets/images/patient-app.webp">
+    	<h3>Collaborative Doctor-Patient Relationship</h3>
+        <img src="assets/images/doctor-app.png">
+        <p>MoodTracker bridges the gap between patients and doctors by providing a seamless means of communication outside of traditional consultation hours. Doctors can access their patients' recorded mood data, enabling them to monitor progress remotely and evaluate the effectiveness of treatments. This continuous feedback loop promotes a stronger doctor-patient relationship and empowers patients to actively participate in their own well-being.</p>
     </div>
     <!-- Break -->
     <div class="4u 12u$(medium)">
-    	<h3>Interdum sapien gravida</h3>
-    	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    	<h3>Reminders and Notifications</h3>
+    	<p>The app includes customizable reminders and notifications to encourage patients to regularly record their mood. These gentle prompts ensure that patients stay engaged with their mental health journey, providing a more accurate reflection of their well-being</p>
     </div>
     <div class="4u 12u$(medium)">
-    	<h3>Faucibus consequat lorem</h3>
-    	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    	<h3>Privacy and Security</h3>
+    	<p>MoodTracker prioritizes the privacy and security of patient data. The app adheres to strict confidentiality standards, ensuring that all information is encrypted and accessible only to authorized individuals i.e. the patient's physician</p>
     </div>
     <div class="4u$ 12u$(medium)">
-    	<h3>Accumsan montes viverra</h3>
-    	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    	<h3>Comprehensive Progress Tracking</h3>
+    	<p>The app compiles all recorded mood data, generating personalized visual reports that highlight the patient's emotional fluctuations and well-being trends over time. This comprehensive overview facilitates a deeper understanding of progress and helps patients recognize patterns and triggers</p>
     </div>
 
 </div>
