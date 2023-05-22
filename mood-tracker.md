@@ -34,7 +34,7 @@ The MoodTracker App was developed in response to a doctor's vision of providing 
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Intuitive Mood Recording</h3>
-        <img src="assets/images/patient-app.webp">
+        <img src="assets/images/patient-app2.webp">
     	<p>MoodTracker offers a simple and intuitive interface that allows patients to conveniently log their emotions and overall well-being on a daily basis. Users can choose from a range of emoticons to capture their unique experiences accurately.</p>
     </div>
     <div class="6u$ 12u$(small)">
