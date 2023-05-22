@@ -6,7 +6,11 @@ image: assets/images/mood-tracker.png
 nav-menu: true
 ---
 
-> The MoodTracker App was developed in response to a doctor's vision of providing ongoing support and follow-ups for patients beyond regular consultation hours. This user-friendly application empowers patients to effortlessly record and track their mood and well-being, while enabling doctors to evaluate treatment effectiveness based on real-time data. With instant visual feedback, patients can easily monitor their progress over time, fostering a deeper understanding of their mental health journey.
+<blockquote style="font-size:large">
+
+The MoodTracker App was developed in response to a doctor's vision of providing ongoing support and follow-ups for patients beyond regular consultation hours. This user-friendly application empowers patients to effortlessly record and track their mood and well-being, while enabling doctors to evaluate treatment effectiveness based on real-time data. With instant visual feedback, patients can easily monitor their progress over time, fostering a deeper understanding of their mental health journey.
+
+</blockquote>
 
 ## Key Features:
 
