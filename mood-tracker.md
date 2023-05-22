@@ -6,12 +6,12 @@ image: assets/images/mood-tracker.png
 nav-menu: true
 ---
 
-<div>
- <video width="480" height="640" controls>
+<center>
+ <video width="480" height="640" controls >
   <source src="assets/video/demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-</div>
+</center>
 
 <h2 id="content">Overview</h2>
 <p style="font-size:xx-large">
