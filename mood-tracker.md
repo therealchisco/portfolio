@@ -53,7 +53,10 @@ The MoodTracker App was developed in response to a doctor's vision of providing 
     </div>
     <div class="4u$ 12u$(medium)">
     	<h3>Comprehensive Progress Tracking</h3>
-    	<p>The app compiles all recorded mood data, generating personalized visual reports that highlight the patient's emotional fluctuations and well-being trends over time. This comprehensive overview facilitates a deeper understanding of progress and helps patients recognize patterns and triggers</p>
+    <video width="480" height="640" controls>
+  <source src="assets/video/demo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
     </div>
 
 </div>
