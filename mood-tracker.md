@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mood Tracker
-description: A modern Web Application that allows people to keep track of their mental health
-image: assets/images/pic10.jpg
+description: A modern Web Application that allows patients and doctors to track mental health together. built using react and node.js
+image: assets/images/mood-tracker.png
 nav-menu: true
 ---
 
