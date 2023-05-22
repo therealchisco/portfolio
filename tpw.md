@@ -38,7 +38,6 @@ The TPW (The Portable Writer) project is a fun and niche endeavor that showcases
 
 ## Technology Stack
 
-- C#
-- .Net
-- Azure
-- MS SQL Server
+- Python
+- Pandas
+- BeautifulSoup
