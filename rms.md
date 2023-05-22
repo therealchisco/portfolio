@@ -2,12 +2,43 @@
 layout: post
 title: Restaurant Menu System
 description: A native app to allow in restaurant orders and management
-image: assets/images/pic06.jpg
+image: assets/images/rms.png
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<center>
+<img src="assets/images/rms-video.gif">
+</center>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+<h2 id="content">Overview</h2>
+<p style="font-size:xx-large">
+The "RMS" (Restaurant Menu System) app was developed to address the needs of restaurants that operate without traditional serving staff. This innovative solution enables customers to place orders directly from their tables and receive notifications when their orders are ready. By leveraging real-time communication technology, the app seamlessly connects customers, kitchen staff, and the back office, resulting in streamlined operations and reduced costs.
+</p>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Table Ordering</h3>
+    	<p>The app allows customers to browse the menu, select their desired items, and place orders directly from their tables. This eliminates the need for dedicated serving staff, enabling a more efficient and cost-effective dining experience.</p>
+    </div>
+    <div class="6u$ 12u$(small)">
+    	<h3>Order Notifications</h3>
+        <p>Once an order is placed, customers receive real-time notifications, keeping them updated on the status of their order. This minimizes wait times and enhances customer satisfaction.</p>
+    </div>
+    <!-- Break -->
+    <div class="6u 12u$(medium)">
+    	<h3>Real-time Communication</h3>
+    	<p>The app facilitates instant communication between the customers and the kitchen staff. As soon as an order is placed, the kitchen staff is immediately notified, ensuring prompt preparation and delivery of the order.</p>
+    </div>
+    <div class="6u 12u$(medium)">
+    	<h3>Menu Management</h3>
+    	<p>The back office has the ability to update the menu in real time through the app. This feature allows for quick adjustments to the menu, such as adding or removing items, updating prices, or displaying special offers. This flexibility contributes to enhanced operational efficiency.</p>
+    </div>
+
+</div>
+
+## Technology Stack
+
+- C#
+- .Net
+- Azure
+- MS SQL Server
