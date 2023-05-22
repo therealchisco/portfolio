@@ -60,3 +60,14 @@ Your browser does not support the video tag.
     </div>
 
 </div>
+
+## Technology Stack
+
+### Frontend
+
+- React
+
+### Backend
+
+- Node.js
+- PostgreSQL
