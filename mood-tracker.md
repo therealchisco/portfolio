@@ -34,22 +34,24 @@ The MoodTracker App was developed in response to a doctor's vision of providing 
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Intuitive Mood Recording</h3>
-		<p>MoodTracker offers a simple and intuitive interface that allows patients to conveniently log their emotions and overall well-being on a daily basis. Users can choose from a range of emoticons to capture their unique experiences accurately.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<img src="assets/images/patient-app.webp">
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
+        <img src="assets/images/patient-app.webp">
+    	<p>MoodTracker offers a simple and intuitive interface that allows patients to conveniently log their emotions and overall well-being on a daily basis. Users can choose from a range of emoticons to capture their unique experiences accurately.</p>
+    </div>
+    <div class="6u$ 12u$(small)">
+    	<img src="assets/images/patient-app.webp">
+    </div>
+    <!-- Break -->
+    <div class="4u 12u$(medium)">
+    	<h3>Interdum sapien gravida</h3>
+    	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    </div>
+    <div class="4u 12u$(medium)">
+    	<h3>Faucibus consequat lorem</h3>
+    	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    </div>
+    <div class="4u$ 12u$(medium)">
+    	<h3>Accumsan montes viverra</h3>
+    	<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+    </div>
+
 </div>
