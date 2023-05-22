@@ -30,11 +30,11 @@ The MoodTracker App was developed in response to a doctor's vision of providing 
         <p>MoodTracker bridges the gap between patients and doctors by providing a seamless means of communication outside of traditional consultation hours. Doctors can access their patients' recorded mood data, enabling them to monitor progress remotely and evaluate the effectiveness of treatments. This continuous feedback loop promotes a stronger doctor-patient relationship and empowers patients to actively participate in their own well-being.</p>
     </div>
     <!-- Break -->
-    <div class="4u 12u$(medium)">
+    <div class="6u 12u$(medium)">
     	<h3>Reminders and Notifications</h3>
     	<p>The app includes customizable reminders and notifications to encourage patients to regularly record their mood. These gentle prompts ensure that patients stay engaged with their mental health journey, providing a more accurate reflection of their well-being</p>
     </div>
-    <div class="4u 12u$(medium)">
+    <div class="6u 12u$(medium)">
     	<h3>Privacy and Security</h3>
     	<p>MoodTracker prioritizes the privacy and security of patient data. The app adheres to strict confidentiality standards, ensuring that all information is encrypted and accessible only to authorized individuals i.e. the patient's physician</p>
     </div>
